@@ -33,7 +33,7 @@ function draw(){
   }
   
   if(mouseIsPressed){
-    cor = color ("cyan");
+    cor = color (random(0, 455), (0, 20), (0, 324));
   }
   
   
